@@ -1,0 +1,61 @@
+#logo {
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+#h-items li {
+    display: block;
+}
+
+#h-items li a {
+    margin: 0px 5px;
+    padding: 0px 10px;
+}
+
+#about {
+    width: 90%;
+    font-size: 18px;
+}
+
+#slider {
+    width: 450px;
+    margin: 110px auto;
+}
+
+#about::before {
+    top: 110px;
+    width: 95%;
+    height: 40%;
+}
+
+#pet-contant {
+    width: 90%;
+    padding: 3px;
+    height: 3900px;
+}
+
+#voodoo {
+    height: 700px;
+    flex-direction: column;
+}
+
+#kaakoo {
+    height: 700px;
+    flex-direction: column;
+    padding: 60px;
+}
+
+#uncle {
+    height: 700px;
+    flex-direction: column;
+}
+
+#rocky {
+    height: 700px;
+    flex-direction: column;
+}
+
+#parrot {
+    height: 700px;
+    flex-direction: column;
+}

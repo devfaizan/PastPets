@@ -1,0 +1,47 @@
+#h-items li a {
+    margin: 5px 2px;
+    padding: 0px 0px;
+}
+
+#about {
+    width: 90%;
+    font-size: 20px;
+}
+
+#about::before {
+    top: 30px;
+    left: 5px;
+    width: 90%;
+    height: 30%;
+}
+
+#pet-contant {
+    width: 95%;
+    padding: 3px;
+    height: 1700px;
+}
+
+#voodoo {
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+#kaakoo {
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+#uncle {
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+#rocky {
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+#parrot {
+    flex-wrap: wrap;
+    height: 300px;
+}
